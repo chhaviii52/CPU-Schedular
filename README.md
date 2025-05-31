@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CPU Scheduling Simulator
 A comprehensive web-based tool for visualizing and analyzing CPU scheduling algorithms in operating systems.
 
@@ -59,6 +59,6 @@ The FCFS algorithm produces:
 - Simulation speed controls
 - Data export capabilities
 This simulator serves as both an educational tool for understanding operating system concepts and a practical utility for analyzing scheduling algorithm performance under various workloads.
-=======
+
 # CPU-schedular
->>>>>>> 74015792f306e89d797f39f55af5f6dff3623a05
+
