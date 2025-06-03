@@ -47,13 +47,7 @@ The FCFS algorithm produces:
 - Execution order: A → B → C
 - Average Waiting Time: 2.67ms
 - Average Turnaround Time: 6ms
-## Future Development
-- Implementation of preemptive scheduling variants
-- Multi-level queue scheduling
-- Process priority aging mechanisms
-- Simulation speed controls
-- Data export capabilities
-This simulator serves as both an educational tool for understanding operating system concepts and a practical utility for analyzing scheduling algorithm performance under various workloads.
 
-# CPU-schedular
+
+
 
