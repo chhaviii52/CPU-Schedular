@@ -29,18 +29,13 @@ The simulator is built using standard web technologies:
 - CSS3 for responsive styling
 - Vanilla JavaScript for algorithm implementation and visualization
 
-##File Structure
+## File Structure
 
 
 ![Screenshot (51)](https://github.com/user-attachments/assets/f3db1788-8671-4707-be5e-6e1f74e6348d)
 
   
-## Usage Guide
-1. Add processes with their parameters (name, arrival time, burst time, priority)
-2. Select a scheduling algorithm
-3. Configure algorithm-specific settings (e.g., time quantum for Round Robin)
-4. Run the simulation to view the Gantt chart and performance metrics
-5. Compare results across different algorithms
+
 ## Example Scenario
 For a workload with three processes:
 
